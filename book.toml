@@ -9,5 +9,5 @@ title = "Game Mechanics"
 edition = "2021"
 
 [output.html]
-git-repository-url = ""
-edit-url-template = ""
+git-repository-url = "https://github.com/314ShadePi/game-mechanics"
+edit-url-template = "https://github.com/314ShadePi/game-mechanics/edit/main/{path}"
