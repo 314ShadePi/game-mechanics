@@ -2,4 +2,4 @@
 
 [Introduction](./introduction.md)
 
-- [Character Switching]()
+- [Character Switching](./character-switching.md)
